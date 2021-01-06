@@ -1,11 +1,11 @@
 function cube(x) {
-    return x * x * x*2;
+    return x * x * x;
   }
 const foo = Math.PI + Math.SQRT2;
 
-exports.zzz ='123';
 
 module.exports={
     cube:cube,
     foo:foo
 }
+module.exports.zzz ='123';

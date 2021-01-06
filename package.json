@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/phearman/hello_npm#readme",
   "dependencies": {
+    "html2canvas": "^1.0.0-alpha.12",
     "moment": "^2.22.1"
   }
 }
